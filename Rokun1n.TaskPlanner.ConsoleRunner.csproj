@@ -10,10 +10,13 @@
   <ItemGroup>
     <Compile Remove="Rokun1n.TaskPlanner.Domain.Logic\**" />
     <Compile Remove="Rokun1n.TaskPlanner.Domain.Models\**" />
+    <Compile Remove="Rokun1n.GuessNumber\**" />
     <EmbeddedResource Remove="Rokun1n.TaskPlanner.Domain.Logic\**" />
     <EmbeddedResource Remove="Rokun1n.TaskPlanner.Domain.Models\**" />
+    <EmbeddedResource Remove="Rokun1n.GuessNumber\**" />
     <None Remove="Rokun1n.TaskPlanner.Domain.Logic\**" />
     <None Remove="Rokun1n.TaskPlanner.Domain.Models\**" />
+    <None Remove="Rokun1n.GuessNumber\**" />
   </ItemGroup>
 
   <ItemGroup>
